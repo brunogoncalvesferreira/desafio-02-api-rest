@@ -9,7 +9,7 @@ API criada no curso de NODE da Rocketseat
 
 <!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,vitest)](https://skillicons.dev)
 
 ## Regras da aplicação
 
